@@ -1,4 +1,6 @@
-# Private Extension Store
+![Repository header](docs/img/RaycastExtensionHeader.png)
+
+# SLRaycastExtension for macOS
 
 Welcome to the private extension store of scribblelabapp-inc. This is a place where you can collaborate on your extensions with your teammates.
 
